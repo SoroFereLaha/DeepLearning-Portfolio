@@ -1,0 +1,22 @@
+Jester Dataset Statistics
+=======================
+
+Jokes Statistics:
+Total number of unique jokes: 406
+Jokes per dataset:
+dataset
+4    157
+3    149
+1    100
+
+Ratings Statistics:
+Total number of ratings: 136020
+Ratings per dataset:
+dataset
+1    73418
+3    54904
+4     7698
+Number of unique users: 136020
+
+Gauge Set Jokes: [7, 8, 13, 15, 16, 17, 18, 19]
+Removed Jokes: [1, 2, 3, 4, 5, 6, 9, 10, 11, 12, 14, 20, 27, 31, 43, 51, 52, 61, 73, 80, 100, 116]
