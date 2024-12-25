@@ -1,3 +1,5 @@
+Lien de téléchargement des datasets : https://eigentaste.berkeley.edu/dataset/
+
 Pour utiliser ce code :
 
 1. Créez une structure de dossiers comme suit :
